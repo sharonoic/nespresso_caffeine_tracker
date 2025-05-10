@@ -1,7 +1,7 @@
 import json
 import streamlit as st
 
-with open("capsules_clean.json") as f:
+with open("capsules.json") as f:
     capsules = json.load(f)
 
 if "log" not in st.session_state:
