@@ -36,6 +36,10 @@ if st.button("➕ Add to log"):
     })
     st.success(f"Added {selected_name} to log!")
 
+if st.button("Clear Log"):
+    st.session_state["log"] = []
+    st.success("Log Cleared!")
+    
 st.markdown("### ☕ Today's Log")
 for entry in st.session_state["log"]:
     st.write(f"- {entry['name']} ({entry['caffeine']} mg)")
@@ -46,7 +50,3 @@ st.markdown(f"**Total caffeine today: {total} mg**")
 if total > 400:
     st.warning("You've exceeded the recommended daily limit (400mg). :(")
 
-if st.button("Clear Log"):
-    st.session_state["log"] = []
-    st.experimental_rerun()
-    st.success("Log Cleared!")
