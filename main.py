@@ -12,7 +12,7 @@ capsule_caffeine = [capsule["Caffeine"] for capsule in capsules]
 
 capsules_types = sorted(set(capsule["Type"] for capsule in capsules))
 
-selected_type = st.selectbox("Choose capsule type", capsules_types_)
+selected_type = st.selectbox("Choose capsule type", capsules_types)
 
 filtered_capsules = [capsule for capsule in capsules if capsule["Type"] == selected_type]
 
