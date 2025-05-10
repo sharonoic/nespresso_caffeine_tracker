@@ -6,4 +6,6 @@ To ensure that the caffeine you take doesn't kill you, this tracker helps you tr
 
 Streamlit link: https://nespreappcaffeinetracker-4bzt6ncdxawucvlazayqz3.streamlit.app/
 
+credits: "Alvin's Nespresso OriginalLine and VertuoLine coffee capsule info" - https://docs.google.com/spreadsheets/d/1kZJCdTmqQla2ha3DDYyixQDIUuf9wLvt3122akBkhgM/edit?gid=745674875#gid=745674875
+
 made by someone who drinks more Nespresso than water (not healthy, don't attempt)
