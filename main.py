@@ -27,7 +27,7 @@ def caffeine_value():
             return(caffeine)
     return None
 
-st.number_input("Caffeine (mg)", value=caffeine_value(), step=1, disabled=True)
+st.number_input("Caffeine (mg)", value=caffeine_value(), step=1.0, disabled=True)
 
 if st.button("➕ Add to log"):
     st.session_state["log"].append({
