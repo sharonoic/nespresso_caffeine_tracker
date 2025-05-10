@@ -48,4 +48,5 @@ if total > 400:
 
 if st.button("Clear Log"):
     st.session_state["log"] = []
+    st.experimental_rerun()
     st.success("Log Cleared!")
