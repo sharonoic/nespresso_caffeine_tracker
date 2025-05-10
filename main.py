@@ -45,3 +45,7 @@ st.markdown(f"**Total caffeine today: {total} mg**")
 
 if total > 400:
     st.warning("You've exceeded the recommended daily limit (400mg). :(")
+
+if st.button("Clear Log"):
+    st.session_state["log"] = []
+    st.success("Log Cleared!")
