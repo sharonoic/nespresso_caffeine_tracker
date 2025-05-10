@@ -1,0 +1,359 @@
+[
+  {
+    "Name":"Almond Croissant",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":140.0
+  },
+  {
+    "Name":"Altissio",
+    "Type":"Espresso",
+    "Caffeine":108.0
+  },
+  {
+    "Name":"Altissio Decaffeinato",
+    "Type":"Espresso",
+    "Caffeine":4.0
+  },
+  {
+    "Name":"Alto Ambrato",
+    "Type":"Alto XL",
+    "Caffeine":170.0
+  },
+  {
+    "Name":"Alto Onice",
+    "Type":"Alto XL",
+    "Caffeine":190.0
+  },
+  {
+    "Name":"Amaha awe Uganda",
+    "Type":"Gran Lungo",
+    "Caffeine":135.0
+  },
+  {
+    "Name":"Arondio",
+    "Type":"Gran Lungo",
+    "Caffeine":150.0
+  },
+  {
+    "Name":"Bianco Doppio",
+    "Type":"Double espresso",
+    "Caffeine":105.0
+  },
+  {
+    "Name":"Bianco Forte",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":160.0
+  },
+  {
+    "Name":"Bianco Piccolo",
+    "Type":"Espresso",
+    "Caffeine":75.0
+  },
+  {
+    "Name":"Caf\u00e9 de Cuba",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":156.0
+  },
+  
+  {
+    "Name":"Cafecito de Puerto Rico",
+    "Type":"Double espresso",
+    "Caffeine":165.0
+  },
+  {
+    "Name":"Caramel Cookie",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":159.0
+  },
+  {
+    "Name":"Chocolate Fudge",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":160.0
+  },
+  
+  {
+    "Name":"Cold Brew Intense",
+    "Type":"Alto XL",
+    "Caffeine":114.0
+  },
+  {
+    "Name":"Colombia",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":165.0
+  },
+  {
+    "Name":"Costa Rica",
+    "Type":"Gran Lungo",
+    "Caffeine":140.0
+  },
+  {
+    "Name":"Diavolitto",
+    "Type":"Espresso",
+    "Caffeine":144.0
+  },
+  {
+    "Name":"Double Espresso Chiaro",
+    "Type":"Double espresso",
+    "Caffeine":135.0
+  },
+  {
+    "Name":"Double Espresso Chiaro Decaffeinato",
+    "Type":"Double espresso",
+    "Caffeine":0.0
+  },
+  {
+    "Name":"Double Espresso Dolce",
+    "Type":"Double espresso",
+    "Caffeine":133.0
+  },
+  {
+    "Name":"Double Espresso Scuro",
+    "Type":"Double espresso",
+    "Caffeine":150.0
+  },
+  {
+    "Name":"El Salvador",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":140.0
+  },
+  {
+    "Name":"Esperanza de Colombia",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":150.0
+  },
+  {
+    "Name":"Ethiopia",
+    "Type":"Gran Lungo",
+    "Caffeine":119.0
+  },
+  {
+    "Name":"Fortado",
+    "Type":"Gran Lungo",
+    "Caffeine":195.0
+  },
+  {
+    "Name":"Fortado Decaffeinato",
+    "Type":"Gran Lungo",
+    "Caffeine":7.0
+  },
+  {
+    "Name":"Gingerbread LE",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":140.0
+  },
+  {
+    "Name":"Ginseng Delight",
+    "Type":"Double espresso",
+    "Caffeine":85.0
+  },
+  {
+    "Name":"Golden Caramel",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":159.0
+  },
+  {
+    "Name":"Half-caffeinato",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":83.0
+  },
+  {
+    "Name":"Hawaii Kona LE",
+    "Type":"Double espresso",
+    "Caffeine":110.0
+  },
+  {
+    "Name":"Hazelino Muffin",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":170.0
+  },
+  {
+    "Name":"Ice Forte",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":165.0
+  },
+  {
+    "Name":"Ice Leggero",
+    "Type":"Double espresso",
+    "Caffeine":165.0
+  },
+  {
+    "Name":"Il Caff\u00e8",
+    "Type":"Espresso",
+    "Caffeine":152.0
+  },
+  {
+    "Name":"Inizio",
+    "Type":"Gran Lungo",
+    "Caffeine":120.0
+  },
+  {
+    "Name":"Intenso (coffee)",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":195.0
+  },
+  {
+    "Name":"Jamaica Blue Mountain LE",
+    "Type":"Espresso",
+    "Caffeine":62.0
+  },
+  {
+    "Name":"Kahawa ya Congo",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":150.0
+  },
+  {
+    "Name":"Maple Pecan",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":166.0
+  },
+  {
+    "Name":"Melozio",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":170.0
+  },
+  {
+    "Name":"Melozio Boost",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":200.0
+  },
+  {
+    "Name":"Melozio Decaffeinato",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":11.0
+  },
+  {
+    "Name":"Mexico",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":190.0
+  },
+  
+  {
+    "Name":"N\u00ba 20",
+    "Type":"Double espresso",
+    "Caffeine":87.0
+  },
+  
+  {
+    "Name":"Odacio",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":170.0
+  },
+  {
+    "Name":"Orafio",
+    "Type":"Espresso",
+    "Caffeine":110.0
+  },
+  
+  {
+    "Name":"Peanut and Roasted Sesame",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":140.0
+  },
+  {
+    "Name":"Peppermint Pinwheel LE",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":140.0
+  },
+  {
+    "Name":"Peru Organic",
+    "Type":"Espresso",
+    "Caffeine":85.0
+  },
+  
+  {
+    "Name":"Pour-over Style Intense",
+    "Type":"Carafe",
+    "Caffeine":230.0
+  },
+  {
+    "Name":"Pour-over Style Mild",
+    "Type":"Carafe",
+    "Caffeine":257.0
+  },
+  {
+    "Name":"Pumpkin Spice Cake LE",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":170.0
+  },
+  {
+    "Name":"Rich Chocolate",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":160.0
+  },
+  
+  {
+    "Name":"Ristretto Intenso",
+    "Type":"Ristretto",
+    "Caffeine":120.0
+  },
+  {
+    "Name":"Roasted Hazelnut",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":170.0
+  },
+  {
+    "Name":"Solelio",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":133.0
+  },
+  {
+    "Name":"Stormio",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":170.0
+  },
+  {
+    "Name":"Stormio Boost",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":200.0
+  },
+  {
+    "Name":"Sunny Almond Vanilla Over Ice",
+    "Type":"Double espresso",
+    "Caffeine":120.0
+  },
+  {
+    "Name":"Sweet Vanilla",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":166.0
+  },
+  {
+    "Name":"Sweet Vanilla Decaffeinato",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":0.0
+  },
+  {
+    "Name":"Tamuka mu Zimbabwe",
+    "Type":"Espresso",
+    "Caffeine":56.0
+  },
+  {
+    "Name":"Tropical Coconut Flavor Over Ice",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":165.0
+  },
+  {
+    "Name":"Unforgettable Double Espresso",
+    "Type":"Double espresso",
+    "Caffeine":135.0
+  },
+  {
+    "Name":"Vanilla Custard Pie",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":166.0
+  },
+  {
+    "Name":"Vivida with B12",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":170.0
+  },
+  {
+    "Name":"Voltesso",
+    "Type":"Espresso",
+    "Caffeine":64.0
+  },
+  {
+    "Name":"White Chocolate Strawberry",
+    "Type":"Coffee \/ Mug",
+    "Caffeine":132.0
+  }
+]
