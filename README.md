@@ -2,6 +2,8 @@ Hello Nespresso Lovers.
 
 Once upon a time, a man took too much caffeine. The other day, he died.
 
+I didn't want to die, at least not because of caffeine intoxication, so I created this tracker.
+
 To ensure that the caffeine you take doesn't kill you, this tracker helps you track how much caffeine slips into your body from Nespresso pods. 
 
 Streamlit link: https://nespreappcaffeinetracker-4bzt6ncdxawucvlazayqz3.streamlit.app/
